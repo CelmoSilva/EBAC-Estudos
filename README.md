@@ -38,3 +38,24 @@ O script `calculadora.py` contém um loop que permite ao usuário escolher uma o
     python .\calculadora.py
    ```
 
+
+#############################
+
+root@VAA013058:~#
+mv /mnt/c/Users/Celmo.Silva.VAA/Downloads/executar_calculadora.sh /mnt/c/EBAC\ Estudos/
+root@VAA013058:~# ls
+root@VAA013058:~# pwd
+/root
+root@VAA013058:~# cd /mnt/c/EBAC\ Estudos
+root@VAA013058:/mnt/c/EBAC Estudos# ls
+README.md  calculadora.py  executar_calculadora.sh
+root@VAA013058:/mnt/c/EBAC Estudos# python3 calculadora.py
+==============
+sh: 1: cls: not found
+0 : Soma
+1 : Subtração
+2 : Multiplicação
+3 : Divisão
+4 : Exponenciação
+
+Escolha a operação que deseja realizar:
