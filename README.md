@@ -28,11 +28,12 @@ O script `calculadora.py` contém um loop que permite ao usuário escolher uma o
    ```
 
 ##Agora vamos rodar o scrip com os seguintes comandos em seu power shell no modo administrador
-
+'''
 cd "C:\nomedapasta"
+'''
 
 ##Agora que já está na pasta vamos executar o script.
-
+'''
 python .\calculadora.py
-
+'''
 
