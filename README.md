@@ -27,13 +27,14 @@ O script `calculadora.py` contém um loop que permite ao usuário escolher uma o
    cd calculadora
    ```
 
+2. **Acessa a pasta local do arquivo**:
+   ```
+    cd "C:\nomedapasta"
+   ```
 ##Agora vamos rodar o scrip com os seguintes comandos em seu power shell no modo administrador
-'''
-cd "C:\nomedapasta"
-'''
 
-##Agora que já está na pasta vamos executar o script.
-'''
-python .\calculadora.py
-'''
+3. **Execute seu arquivo**:
+   ```
+    python .\calculadora.py
+   ```
 
