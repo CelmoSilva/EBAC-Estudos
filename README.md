@@ -27,9 +27,12 @@ O script `calculadora.py` contém um loop que permite ao usuário escolher uma o
    cd calculadora
    ```
 
-## Torne o script executável
-chmod +x executar_calculadora.sh
+##Agora vamos rodar o scrip com os seguintes comandos em seu power shell no modo administrador
+
+cd "C:\nomedapasta"
+
+##Agora que já está na pasta vamos executar o script.
+
+python .\calculadora.py
 
 
-## Execute o Scritpt
-./executar_calculadora
